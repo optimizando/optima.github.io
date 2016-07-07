@@ -13,6 +13,7 @@ body {
 body {
     /*font-family: "Trebuchet MS", Helvetica, sans-serif;*/
     font-family: 'Lato', sans-serif;
+    font-weight: 300;
 }
 
 hr {
@@ -45,6 +46,7 @@ h5,
 h6 {
     /*font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;*/
     font-family: 'Lato', sans-serif;
+    font-weight: 200;
 }
 
 p {
@@ -297,7 +299,8 @@ header .header-content .header-content-inner p {
 .portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-category,
 .portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-name {
     padding: 0 15px;
-    font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;
+    /*font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;*/
+    font-family: 'Lato', sans-serif;
 }
 
 .portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-category {
@@ -449,7 +452,7 @@ fieldset[disabled] .btn-primary.active {
     text-transform: uppercase;
     /*font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;*/
     font-family: 'Lato', sans-serif;
-    font-weight: 700;
+    font-weight: 400;
 }
 
 .btn-xl {
